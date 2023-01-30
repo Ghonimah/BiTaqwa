@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_doa">Daily Prayer</string>
+    <string name="menu_dzikir">Dhikr</string>
+    <string name="menu_zakat">Zakat</string>
+    <string name="menu_sholat">Prayer Times</string>
+    <string name="menu_kajian">Videos</string>
+    <string name="inspiration">inspiration</string>
+    <string name="card_inspiration_description">Clickable Image Inspiration</string>
+    <string name="inspiration_description">Image of Inspiration</string>
+</resources>

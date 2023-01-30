@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">BiTaqwa</string>
+    <string name="text_welcome">Assalamualaikum\nWelcome to <b>BiTaqwa</b></string>
+    <string name="menu_doa">Daily Prayer</string>
+    <string name="menu_dzikir">Dhikr</string>
+    <string name="menu_zakat">Zakat</string>
+    <string name="menu_sholat">Prayer Times</string>
+    <string name="menu_kajian">Videos</string>
+    <string name="inspiration">Inspiration</string>
+    <string name="card_inspiration_description">Clickable Image Inspiration</string>
+    <string name="inspiration_description">Image of Inspiration</string>
+    <string name="text_menu_doa">Doa Doa</string>
+    <string name="text_menu_dzikir">Dzikir</string>
+    <string name="text_menu_zakat">Zakat</string>
+    <string name="text_menu_sholat">Jadwal\nSholat</string>
+    <string name="text_menu_kajian">Video\nKajian</string>
+    <string name="text_pagi_amp_malam">Pagi dan Malam</string>
+    <string name="text_rumah">Doa Rumah</string>
+    <string name="Makan_amp_Minum">Makan dan Minum</string>
+    <string name="text_perjalanan">Doa Perjalanan</string>
+    <string name="text_doa_sholat">Doa Sholat</string>
+    <string name="text_etika_baik">Etika Baik</string>
+    <string name="menu_jadwal_sholat">Jadwal Sholat</string>
+    <string name="text_location_pray">Area DKI Jakarta</string>
+    <string name="text_jadwal_imsak">Jadwal Imsak</string>
+    <string name="text_00">00</string>
+    <string name="text_jadwal_shubuh">Jadwal Shubuh</string>
+    <string name="text_jadwal_terbit">Jadwal Terbit</string>
+    <string name="text_menu_jadwal_sholat">Jadwal Sholat</string>
+    <string name="total_harta">Total Harta</string>
+    <string name="text_ok">OK</string>
+    <string name="total_uang">Total Uang</string>
+    <string name="zakat_dikeluarkan">Zakat Dikeluarkan</string>
+    <string name="text_menu_video_kajian">Video Kajian</string>
+</resources>

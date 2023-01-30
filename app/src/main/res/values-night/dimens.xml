@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margintop_textmenu">8dp</dimen>
+    <dimen name="margin_horizontal_menu">4dp</dimen>
+    <dimen name="padding_menu_container">16dp</dimen>
+    <dimen name="inspiration_padding">8dp</dimen>
+</resources>
